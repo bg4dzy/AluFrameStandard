@@ -15,13 +15,19 @@ This is a native FreeCAD parametric model library focused on national and Europe
 
 ## 🔌 依赖插件 | Required & Optional Addons
 所有模型均在FreeCAD 1.1.0的后续版本中建模，为了能在装配工作平台使用，需提前安装以下插件：
+
 All models are created based on FreeCAD 1.1.0 and later versions. To work properly in the assembly workbench, please install the following addons in advance.
+
 ### ✅ Core Required Addons (Mandatory)
-- EasyProfileFrame
+- EasyProfileFrame:
+
 铝型材快速建模工作台，支持框架拼接、裁切与BOM导出。
+
 Rapid profile modeling, frame splicing, cutting and BOM generation.
 
 ### ⚙️ Optional Enhancement Addons (Efficiency Improvement)
-- Fasteners
+- Fasteners:
+
 标准螺丝、螺母、垫片紧固件库，统一装配标准。
+
 Standard bolt, nut and washer library for standardized assembly.
