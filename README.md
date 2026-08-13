@@ -20,6 +20,7 @@ All models are created based on FreeCAD 1.1.0 and later versions. To work proper
 - EasyProfileFrame
 铝型材快速建模工作台，支持框架拼接、裁切与BOM导出。
 Rapid profile modeling, frame splicing, cutting and BOM generation.
+
 ### ⚙️ Optional Enhancement Addons (Efficiency Improvement)
 - Fasteners
 标准螺丝、螺母、垫片紧固件库，统一装配标准。
